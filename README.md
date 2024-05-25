@@ -4,7 +4,7 @@ Egg song is cancer. If you know you know.
 
 To use: 
 -Animal flute must be equipped. 
--You must be in the right place. 
+-You must be in the right place (do not stand too close to edges of the map where you could accidentally be moved to another area). 
 -Use item must be bound to x on your keyboard. 
 
 Option 1) Bind EggSongInstant.exe to a keyboard shortcut (like with AutoHotkey or other software of your choice). Once this.exe is run it will immediately start inputting directions and the x key, so use this option if you can bind a shortcut to run this macro in-game when you are already in the right place with flute equipped.  
